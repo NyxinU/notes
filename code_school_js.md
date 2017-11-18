@@ -20,4 +20,9 @@ var diff = function diffOfSquares (a,b) {
 ```
 * can be an anon function
 
-
+### Closure 
+* returned a function from a function and complete with varible that showed up in the external function
+* closure wraps up an entire environemtn, binding necessary variables from other scopes
+* can be used to make very similar functions
+* function that makes a ticket and is passed the method of transportation
+* have a passenger tracker in the ticket maker
