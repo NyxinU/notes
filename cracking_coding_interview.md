@@ -1,0 +1,2 @@
+## intro 
+* talk through thoughts 
